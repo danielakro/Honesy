@@ -22,7 +22,7 @@ Discord - danielakro#7435
 [malvis](https://github.com/malvisdev) - Тестер и помощник проекта
 [Telegram](https://t.me/malvisdev)
 
-Zoldik - Тестер проекта
+Zoldik, Wardoza - Тестеры проекта
 
 [Дискорд сервер проекта](https://discord.gg/GT2WEBXvbh)
 
